@@ -91,9 +91,9 @@ footer {
 }
 
 .photos {
-    /* float: left; */
-    /* width: 33.33%; */
-    /* padding: 5px; */
+    float: left;
+    width: 33.33%;
+    padding: 5px;
     margin: 20px 0;
     display: grid;
     grid-template-columns: 33% 33% 33%;
